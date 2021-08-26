@@ -19,6 +19,6 @@ h1 {
 }
 #topBar {
     background-color: rgb(56, 56, 170);
-    width: 1200px;
+    width: auto;
     height: 100px;
 }
