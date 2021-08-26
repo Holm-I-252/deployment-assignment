@@ -15,4 +15,8 @@ button {
 }
 h1 {
     font-family: 'Roboto', sans-serif;
+    color: white;
+}
+#topBar {
+    background-color: rgb(56, 56, 170);
 }
