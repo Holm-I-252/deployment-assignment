@@ -19,8 +19,7 @@ h1 {
 }
 #topBar {
     background-color: rgb(56, 56, 170);
-    width: auto;
+    width: 100%;
     height: 100px;
-    padding-left: auto;
-    padding-right: auto;
+
 }
