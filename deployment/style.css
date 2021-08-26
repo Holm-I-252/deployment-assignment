@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(190, 190, 190);
+    background-color: rgb(107, 185, 216);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -8,4 +8,8 @@ body {
 img {
     margin-left: auto;
     margin-right: auto;
+}
+button {
+    margin: 20px;
+    border-radius: 15px;
 }
