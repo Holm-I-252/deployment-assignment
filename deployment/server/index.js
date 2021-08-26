@@ -13,8 +13,12 @@ app.get('/js', (req, res) => {
     res.sendFile(path.join(__dirname, '../main.js'))
   })
 
-  app.get('/jfif', (req, res) => {
+  app.get('/jfif1', (req, res) => {
     res.sendFile(path.join(__dirname, '../hackerman.jfif'))
+  })
+
+  app.get('/jfif2', (req, res) => {
+    res.sendFile(path.join(__dirname, '../background.jfif'))
   })
 
 // app.get('/css', (req, res) => {
