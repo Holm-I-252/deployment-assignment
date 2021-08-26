@@ -21,4 +21,6 @@ h1 {
     background-color: rgb(56, 56, 170);
     width: auto;
     height: 100px;
+    padding-left: auto;
+    padding-right: auto;
 }
